@@ -20,9 +20,10 @@ I) Repository Structure
 II) Detection Logic: The 3-Pillar Rule
 
 To accurately identify structured money flows, the transaction engine evaluates data against three dimensions:
-The Proximity Band (Pillar 1):  Targets individual inbound amounts sitting right under the legal ceiling.
-Temporal Velocity (Pillar 2):  Restricts the engine to high-speed, close-proximity transactions using a tight rolling time window.
-Behavioral Recurrence (Pillar 3):  Validates that subsequent transactions maintain a sub-threshold profile to verify intent.
+
+1. The Proximity Band (Pillar 1):  Targets individual inbound amounts sitting right under the legal ceiling.
+2. Temporal Velocity (Pillar 2):  Restricts the engine to high-speed, close-proximity transactions using a tight rolling time window.
+3. Behavioral Recurrence (Pillar 3):  Validates that subsequent transactions maintain a sub-threshold profile to verify intent.
 
 ---
 III) The Model Tuning Matrix (Empirical Ledger Results)
