@@ -1,4 +1,4 @@
-<img width="267" height="121" alt="image" src="https://github.com/user-attachments/assets/a92747c4-caa6-4c57-bcde-4f39314c8882" /><img width="1421" height="267" alt="image" src="https://github.com/user-attachments/assets/05beef60-777b-4856-8525-b1cbe1e75d41" />Optimizing AML Transaction Monitoring: Catching Cross-Band Structuring
+Optimizing AML Transaction Monitoring: Catching Cross-Band Structuring
 
 
 If an AML rule only checks for single transactions over ₹50,000 (the standard statutory threshold), it is completely blind to structured layering rings. Bad actors bypass this daily by splitting large sums into rapid-fire deposits right below the radar, like transferring ₹49,177 and ₹42,529 to the same beneficiary within the same hour.
