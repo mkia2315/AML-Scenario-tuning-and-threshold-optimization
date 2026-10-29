@@ -16,7 +16,6 @@ I) Repository Structure
 ├── documentation
 │   └── Business_Requirements_Document.md    # Functional specs and regulatory alignment (RBI/FinCEN)
 ```
-
 ---
 II) Detection Logic: The 3-Pillar Rule
 
