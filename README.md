@@ -51,5 +51,7 @@ IV) Core Operational Insights
 V) Tools & Technology Stack
 
 Language & Engine:  Advanced SQL Window Function Lookahead Architecture.
+
 Core Analytics:  Nested Common Table Expressions (CTEs), multi-offset lookahead frames (LEAD/LAG), and relational partitioning.
+
 Domain Focus:  Anti-Money Laundering (AML) Transaction Monitoring, Scenario Optimization, Alert Tuning, and Model Defensibility.
